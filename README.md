@@ -2,7 +2,7 @@ pyToy
 =====
 Simple toy I made in Python, made to build/fork off of.
 
-This is a very bare release and I hope to make it bigger.
+This is a very bare release.
 
 Installation
 ============
